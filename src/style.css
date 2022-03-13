@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(87, 87, 87);
+}
+.App {
+  margin-top: 50px;
+}
+.picked {
+  cursor: pointer;
+  background-color: gray;
+  color: whitesmoke
+}
+.suggestions {
+  width: 300px;
+  margin: 0 auto;
+  overflow: hidden;
+}
